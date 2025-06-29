@@ -1,2 +1,2 @@
 # GUI-Calculator
-Working GUI calculator using JAVA
+ fully functional  GUI calculator using JAVA
